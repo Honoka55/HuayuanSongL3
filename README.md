@@ -9,7 +9,8 @@ Huayuan Song L3 is an open serif font intended for Implementation Level 3 of Chi
 GB 18030 does not specify a glyph standard. All glyphs are generated directly from GlyphWiki, following the J-Source or imaginary J-Source standard, rather than the G-Source standard used in China.
 
 ## Included characters
-The difference between GB 18030-2022 Implementation Level 3 and Implementation Level 2 is included in this font.
+- HuayuanSongL3 - The difference between GB 18030-2022 Implementation Level 3 and Implementation Level 2 is included.
+- HuayuanSongL3A1D3 - Characters added to Implementation Level 3 in GB 18030-2022 Amendment 1 (Third Draft for comments) are included.
 
 ## License
 This font is licensed under the [SIL Open Font License](OFL.txt).
@@ -25,7 +26,8 @@ This font is licensed under the [SIL Open Font License](OFL.txt).
 GB 18030并不规定字形标准。本字体的字形全部直接来自字形维基，遵从J源或假想J源标准，而非中国通行的G源标准。
 
 ## 收录字符
-收录GB 18030-2022实现级别3与实现级别2的差集。
+- HuayuanSongL3 - 收录GB 18030-2022实现级别3与实现级别2的差集。
+- HuayuanSongL3A1D3 - 收录GB 18030-2022第１号修改单（第三次征求意见稿）对实现级别3增加的字符。
 
 ## 授权协议
 本字体以[SIL开放字体许可证](OFL.txt)授权。
@@ -41,7 +43,8 @@ GB 18030并不规定字形标准。本字体的字形全部直接来自字形维
 GB 18030は字形規格を指定していません。このフォントの字形はグリフウィキからそのままJソースまたは仮想J字形に従って生成され、中国で使用されるGソース（いわゆる中華フォント）とは異なります。
 
 ## 含まれた文字
-GB 18030-2022の実装レベル３と実装レベル２の差集合が含まれています。
+- HuayuanSongL3 - GB 18030-2022の実装レベル３と実装レベル２の差集合が含まれています。
+- HuayuanSongL3A1D3 - GB 18030-2022第１号改正案（第三回意見募集稿）で実装レベル３に追加された文字が含まれています。
 
 ## 利用規約
 このフォントは、[SILオープンフォントライセンス](OFL.txt)によってライセンスされています。
